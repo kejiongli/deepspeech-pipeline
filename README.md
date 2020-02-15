@@ -1,6 +1,5 @@
 # deepspeech-pipeline
-## Build pipeline for multichannel audio S2T JSON transcription 
-and the expected JSON output.
+## Build pipeline for multichannel audio S2T JSON transcription and the expected JSON output.
 
 ###Main features:
 - Deal with different types of audio types including, .mp3, .mp4 
