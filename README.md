@@ -13,14 +13,14 @@ and different bits of .wav
 
 1. install ffmpeg 
 
-- Download: Go to http://ffmpeg.org/download.html#build-windows and select an appropriate windows version number
+* Download: Go to http://ffmpeg.org/download.html#build-windows and select an appropriate windows version number
   
-- Unzip it to a folder that’s easy to find, like directly to your C:\ drive. It should create a folder like ffmpeg-20170418-6108805-win64-static 
+* Unzip it to a folder that’s easy to find, like directly to your C:\ drive. It should create a folder like ffmpeg-20170418-6108805-win64-static 
   
-- Add the bin folder, which contains the ffmpeg.exe file, to your system 
+* Add the bin folder, which contains the ffmpeg.exe file, to your system 
 path to allow us to run the commands easily.
 
-- Then cmd to try ffmpeg -version to check if it installed 
+* Then cmd to try ffmpeg -version to check if it installed 
 
 2. Set up python virtual environment and pip install requirments.txt
 
