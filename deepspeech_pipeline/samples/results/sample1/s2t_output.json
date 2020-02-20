@@ -1,0 +1,153 @@
+{
+  "AudioFileResults": [
+    {
+      "AudioFileName": "sample1.wav",
+      "AudioLengthInSeconds": 55.606375,
+      "SegmentResults": [
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 0.46,
+          "OffsetInSeconds": 0.0,
+          "NBest": [
+            {
+              "Lexical": "hello"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 2.18,
+          "OffsetInSeconds": 0.0,
+          "NBest": [
+            {
+              "Lexical": "i"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 6.280000000000001,
+          "OffsetInSeconds": 0.46,
+          "NBest": [
+            {
+              "Lexical": "this is able calling from the tank connect confirm that i'm talking to can"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 1.9000000000000001,
+          "OffsetInSeconds": 4.66,
+          "NBest": [
+            {
+              "Lexical": "able yes this is cain speaking"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 6.08,
+          "OffsetInSeconds": 7.06,
+          "NBest": [
+            {
+              "Lexical": "thank you came how are you to day"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 2.8800000000000003,
+          "OffsetInSeconds": 9.56,
+          "NBest": [
+            {
+              "Lexical": "i am okay thanks for asking able how are you"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 11.879999999999999,
+          "OffsetInSeconds": 13.38,
+          "NBest": [
+            {
+              "Lexical": "i am good thank you for asking came it had been a busy day i'm calling because of your complaint you lodged you months ago can i have some more details about your complaints"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 1.8399999999999999,
+          "OffsetInSeconds": 23.64,
+          "NBest": [
+            {
+              "Lexical": "yes i can talk about my complaint"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 12.9,
+          "OffsetInSeconds": 26.36,
+          "NBest": [
+            {
+              "Lexical": "can you tell me what happened in detail"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 19.36,
+          "OffsetInSeconds": 28.48,
+          "NBest": [
+            {
+              "Lexical": "i don't really want to talk about it too much it is really personal in its still upsets me i'm sorry i can't do this right now can you call me back at a later time"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 12.64,
+          "OffsetInSeconds": 39.44,
+          "NBest": [
+            {
+              "Lexical": "okay i understand that you cannot talk about the personal details about the complaint that the moment i will make sure to call you again at a more suitable time in the future"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 2.5600000000000005,
+          "OffsetInSeconds": 49.02,
+          "NBest": [
+            {
+              "Lexical": "thank you i will talk to you soon and have a good day able"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 2.2800000000000002,
+          "OffsetInSeconds": 52.74,
+          "NBest": [
+            {
+              "Lexical": "thank you for your time to day good by came"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
