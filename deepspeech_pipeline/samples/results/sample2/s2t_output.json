@@ -1,0 +1,186 @@
+{
+  "AudioFileResults": [
+    {
+      "AudioFileName": "sample2.wav",
+      "AudioLengthInSeconds": 90.479375,
+      "SegmentResults": [
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 0.46,
+          "OffsetInSeconds": 0.0,
+          "NBest": [
+            {
+              "Lexical": "hello"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 4.32,
+          "OffsetInSeconds": 0.0,
+          "NBest": [
+            {
+              "Lexical": "i"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 5.92,
+          "OffsetInSeconds": 0.48,
+          "NBest": [
+            {
+              "Lexical": "this is able calling from the tank connect confirm that i'm talking to can"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 3.9799999999999995,
+          "OffsetInSeconds": 4.42,
+          "NBest": [
+            {
+              "Lexical": "able yes this is gained speaking"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 5.0,
+          "OffsetInSeconds": 6.76,
+          "NBest": [
+            {
+              "Lexical": "thank you came how are you to day"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 13.219999999999999,
+          "OffsetInSeconds": 8.64,
+          "NBest": [
+            {
+              "Lexical": "i am okay thanks for asking able how are you"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 11.82,
+          "OffsetInSeconds": 11.92,
+          "NBest": [
+            {
+              "Lexical": "i am good thank you for asking came it had been a busy day i'm calling because of your complaint you lodged you months ago can i have some more details about your complaints"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 4.199999999999999,
+          "OffsetInSeconds": 22.24,
+          "NBest": [
+            {
+              "Lexical": "yes i can talk about my complaint"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 19.900000000000002,
+          "OffsetInSeconds": 25.14,
+          "NBest": [
+            {
+              "Lexical": "can you tell me what happens"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 29.82,
+          "OffsetInSeconds": 26.62,
+          "NBest": [
+            {
+              "Lexical": "i become divorced from wife of ten years after a bad night and then i had an accident after she kicked me out of the house after my accident i couldn't pay for my medical bills because i was not working at the time soon after the accident i didn't have enough money on became homeless quickly i don't know what happened after that but i am doing better now"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 18.059999999999995,
+          "OffsetInSeconds": 45.14,
+          "NBest": [
+            {
+              "Lexical": "that's not good to hear and i hope you are okay these days the details you provided or relevant to my investigation of your complaints are you happy for me to consent the record and are you happy to for me to use this information in my investigation"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 16.020000000000003,
+          "OffsetInSeconds": 57.94,
+          "NBest": [
+            {
+              "Lexical": "yes i give my consent i'm over it now and it's all in the past i'm starting to get to a better place"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 7.88,
+          "OffsetInSeconds": 64.52,
+          "NBest": [
+            {
+              "Lexical": "i will use this information further in my investigation this is all the information i need at the moment he there anything the bank can do to help you or denied any additional support"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 13.34,
+          "OffsetInSeconds": 74.62,
+          "NBest": [
+            {
+              "Lexical": "yes i need some additional support i don't know how this complained process or investigation works due to my circumstances could you send me details of the process"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 0,
+          "DurationInSeconds": 4.040000000000001,
+          "OffsetInSeconds": 83.8,
+          "NBest": [
+            {
+              "Lexical": "yes i will send you the details thank you for your time to day good by came"
+            }
+          ]
+        },
+        {
+          "RecongitionStatus": "Success",
+          "ChannelNumber": 1,
+          "DurationInSeconds": 1.4999999999999998,
+          "OffsetInSeconds": 88.76,
+          "NBest": [
+            {
+              "Lexical": "thank you able have a good day"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

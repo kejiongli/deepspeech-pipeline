@@ -5,12 +5,12 @@ import logging
 
 from scipy.io import wavfile
 
-
 from preprocess_audio import convert_sample_rate, split_channel
 from run_deepspeech import process_stt_meta
 from generate_output import save_metadata_json
 from combine_json import generate_combine_result
 
+OUTPUT_DIR = 'results'
 
 SAMPLE_RATE = 16000
 
@@ -29,7 +29,7 @@ def run_stt(top_dir):
             file_ext = os.path.splitext(file_path)[1].lower()
             file_base = os.path.basename(file_name_path)
 
-            file_dir = os.path.join(base_dir, file_base)
+            file_dir = os.path.join(base_dir, OUTPUT_DIR, file_base)
 
             os.makedirs(file_dir, exist_ok=True)
 
